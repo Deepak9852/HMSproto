@@ -1,0 +1,6 @@
+# node modles
+node_modules/   
+# build output
+dist/   
+# dependency directories
+jspm_packages/  
